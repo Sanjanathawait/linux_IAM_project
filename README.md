@@ -1,5 +1,5 @@
 # Linux IAM & System Hardening — Mini Project
-## Author: Sanjana Thawait (ERP: 6604710)
+## Author: Sanjana Thawait 
 ### B.Tech CSE (Cybersecurity), Semester 5, Section CY5A
 ---
 
